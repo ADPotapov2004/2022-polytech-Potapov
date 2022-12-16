@@ -19,3 +19,11 @@
 Быстрее всего выполняется файл скомпилированный с `-Ofast`
 
 Размер секции .text: 00000234
+
+```
+Permissions Size Date Modified Git Name
+.rwxr-xr-x@  26k 16 Dec 14:33   -I O2.out
+.rwxr-xr-x@  26k 16 Dec 14:34   -I Ofast.out
+.rwxr-xr-x@  26k 16 Dec 14:34   -I Os.out
+.rwxr-xr-x@  26k 16 Dec 14:34   -I Oz.out
+```
